@@ -6,4 +6,5 @@
   <li>setup .env email data and db connection</li>
   <li>run command on terminal : <b>php artisan migrate</b></li>
   <li>run command on terminal : <b>php artisan queue:work</b></li>
+  <li>run command on terminal to get new registered users : <b>php artisan list-recent:users</b></li>
 </ol> 
